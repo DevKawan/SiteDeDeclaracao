@@ -17,8 +17,6 @@ Um **template simples** em HTML (com galeria de fotos e frases personalizáveis)
 ## 📂 Estrutura do Projeto
 
 SiteDeDeclaracao/
-├── index.html
-└── siteParaDeclaracaoDeAmor/
 └── index.html
 
 - **index.html** (raiz)  
