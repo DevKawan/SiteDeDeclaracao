@@ -21,9 +21,7 @@ SiteDeDeclaracao/
 
 - **index.html** (raiz)  
   – Ponto de partida; referência geral ao template.  
-  – Contém placeholders para título, frases antes/depois do clique, legendas.
-
-- **siteParaDeclaracaoDeAmor/index.html**  
+  – Contém placeholders para título, frases antes/depois do clique, legendas.  
   – Versão específica do template para declarações de amor (igual ao root, mas isolado).  
   – Aqui você edita:  
   ```html
